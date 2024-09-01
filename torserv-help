@@ -1,0 +1,33 @@
+Tor Serv Help
+========================================
+
+Start Tor Service
+------------------
+This function will start the tor service once it is enabled.
+Before you can start the tor service it must be enabled as a running service on your system.
+
+Stop Tor Service
+------------------
+This function will stop the tor service once it is enabled.
+
+Status
+------------------
+This function will check the status of the tor service to see if it is running or not.
+Usually referred to as "active" or "inactive".
+
+Enable Tor Service
+------------------
+This function will enable the tor service so that when you reboot or restart your computer it will automatically be running as a service.
+It will still need to be started to be used.
+
+Disable Tor Service
+------------------
+This function will disable the tor service so that it wil no longer be running as a service on your computer.
+
+Help
+------------------
+This function enables the help page you are looking at now.
+
+Quit
+------------------
+This function quits the current Tor Serv application.
