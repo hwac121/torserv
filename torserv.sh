@@ -1,11 +1,11 @@
 #!/bin/bash
 
-# Title: Tor Serv for Kali Linux
+# Title: Tor Serv
 # Version: 1.0
 # Date: Sept. 1, 2024
 # Contact: hwac121@ptorbox.onion
-
-# GitHub: https://github.com/hwac121/TorServ.git
+# Author: RJ Levesque, Jr. - Majik Cat Security
+# GitHub: https://github.com/hwac121
 
 #-----------------------------------------------------------------
 
